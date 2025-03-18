@@ -6,7 +6,7 @@ import requests
 import time
 
 # OpenWeatherMap API key
-API_KEY = "8ae04ecd91cc24827d865389a525856a"
+API_KEY = "your API Key"
 
 # Initialize Dash app
 app = dash.Dash(__name__)
@@ -31,7 +31,7 @@ app.layout = html.Div(
                         {"label": "Tokyo", "value": "Tokyo"},
                         {"label": "Sydney", "value": "Sydney"},
                         {"label": "Paris", "value": "Paris"},
-                        {"label": "India", "value": "India"},
+                        {"label": "India", "value": "India"}, #add any countries you want
                     ],
                     value="New York",
                     clearable=False,
