@@ -1,6 +1,7 @@
 # Data Analysis Weather Dashboard
 
-![Screenshot 2025-03-17 130000](https://github.com/user-attachments/assets/9864b405-5c28-4a5a-88a6-cd09e53b3c5c)
+![Screenshot 2025-03-18 090329](https://github.com/user-attachments/assets/48b9c0b4-0d3f-4fe2-8888-dad32a893161)
+
 
 
 This project is a **Data Analysis Weather Dashboard** built using **Dash** and the **OpenWeatherMap API**. It visualizes live weather data for selected cities, including temperature, humidity, and wind speed, with interactive and colorful charts.
